@@ -32,7 +32,7 @@ Check out one of my favorite projects:
 
 Explore more of my work:
 - [Chips Sales Analysis](https://github.com/AdeOgunbiyi/Chips_Sales_Analysis)
-- [Electronic Sales Insight Dashboard](https://github.com/AdeOgunbiyi/Electronic-Sales-Insight-Dashboard)
+- [E-Commerce-Sales-and-Customer-Insights](https://github.com/AdeOgunbiyi/E-Commerce-Sales-and-Customer-Insights)
 - [Supermarket Sales Predictive Analysis](https://github.com/AdeOgunbiyi/Supermarket-Sales-Predictive-Analysis)
 
 ---
