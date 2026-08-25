@@ -27,8 +27,8 @@ I'm open to working on projects involving:
 ## 🚀 Featured Project
 
 Check out one of my favorite projects:
-[E-Commerce Sales and Customer Insights](https://github.com/AdeOgunbiyi/E-Commerce-Sales-and-Customer-Insights)  
-*Dive into sales and customer data to uncover key insights and trends for e-commerce businesses.*
+[Profitability-Performance-Dashboard](https://github.com/AdeOgunbiyi/Profitability-Performance-Dashboard)  
+*Dive into category-level sales and profit data to uncover where revenue growth isn't translating into profitability.*
 
 Explore more of my work:
 - [Chips Sales Analysis](https://github.com/AdeOgunbiyi/Chips_Sales_Analysis)
